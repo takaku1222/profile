@@ -1,1 +1,1 @@
-Tomoyuki Takaku のプロフィールページ
+Tomoyuki Takakuのホームページ
