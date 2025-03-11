@@ -23,7 +23,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
-      <body className={`${notoSansJP.variable} antialiased`}>{children}</body>
+      <body className={`${notoSansJP.variable} antialiased`}>
+        <div className="w-full max-w-screen-sm mx-auto p-5">{children}</div>
+      </body>
     </html>
   );
 }

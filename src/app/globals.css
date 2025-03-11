@@ -2,8 +2,10 @@
 
 @theme {
   --font-noto-sans-jp: var(--font-noto-sans-jp);
+  --background: #fffbf3;
 }
 
 body {
   font-family: var(--font-noto-sans-jp);
+  background-color: var(--background);
 }
