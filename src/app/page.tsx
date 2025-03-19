@@ -43,7 +43,7 @@ export default function Home() {
               <li>HTML : 2年</li>
               <li>CSS : 2年</li>
               <li>TypeScript : 半年</li>
-              <li>Ruby : 1年</li>
+              <li>Ruby : 2年</li>
               <li>SQL : 1年</li>
             </ul>
           </div>
@@ -61,7 +61,7 @@ export default function Home() {
               バックエンドフレームワーク
             </h3>
             <ul className="list-disc mt-2 ml-8">
-              <li>Ruby on Rails : 1年</li>
+              <li>Ruby on Rails : 2年</li>
             </ul>
           </div>
         </section>
