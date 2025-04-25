@@ -81,7 +81,7 @@ export default function Home() {
           <div>
             <h3 className="text-xl font-bold mt-4">稼働時間</h3>
             <p className="mt-2">
-              平日・休日を問わず、週5日、最大週40時間程度の稼働が可能です。
+              平日・休日を問わず、週5日、週40時間程度の稼働が可能です。
             </p>
           </div>
           <div>
@@ -101,9 +101,6 @@ export default function Home() {
             <h3 className="text-xl font-bold mt-4">条件等</h3>
             <ul className="list-disc mt-2 ml-8">
               <li>原則、準委任契約で契約を締結させていただきます</li>
-              <li>
-                基本的にリモートでの業務を希望いたします。必要に応じて対面での打ち合わせも可能です
-              </li>
             </ul>
           </div>
         </section>
