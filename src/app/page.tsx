@@ -42,7 +42,7 @@ export default function Home() {
             <ul className="list-disc mt-2 ml-8">
               <li>HTML : 2年</li>
               <li>CSS : 2年</li>
-              <li>TypeScript : 半年</li>
+              <li>TypeScript : 1年</li>
               <li>Ruby : 2年</li>
               <li>SQL : 1年</li>
             </ul>
@@ -52,8 +52,8 @@ export default function Home() {
               フロントエンドフレームワーク
             </h3>
             <ul className="list-disc mt-2 ml-8">
-              <li>React : 半年</li>
-              <li>Next.js : 半年</li>
+              <li>React : 1年</li>
+              <li>Next.js : 1年</li>
             </ul>
           </div>
           <div>
